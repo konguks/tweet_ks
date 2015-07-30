@@ -13,7 +13,7 @@
 
 
 
-            echo 'start...';
+            echo 'start...<br>';
             define('CONSUMER_KEY', 'tEOWFrYWgs4ml0PzJtKSsYUrj');
             define('CONSUMER_SECRET', 'o58Tp63xUnNkIJUIr9o96O47kwhvNq1amRciv5F5MtdTLPwX1z');
             define('ACCESS_TOKEN', '714419437-qTbbCQGAq3fx3Hn6RDpv7MZ6CA78BLwDxWlMAY7O');
