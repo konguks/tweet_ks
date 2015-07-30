@@ -25,6 +25,15 @@ env:
   - DB=mysql
 #  - DB=pgsql
 
+ deploy:
+   edge: true
+   provider: cloudfoundry
+   username: konguskarthick@gmail.com
+   password: karthick37
+   api: https://api.run.pivotal.io
+   organization: VzHackathon_15
+   space: development
+
 # optionally set up exclutions and allowed failures in the matrix
 matrix:
   exclude:
