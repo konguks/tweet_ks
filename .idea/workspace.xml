@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="45f3fa98-1b0d-4b4b-a9eb-34dbb0faa039" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tweet_test.php" afterPath="$PROJECT_DIR$/tweet_test.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chk.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="tweet.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -24,10 +25,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="tweet_test.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="tweet_test.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/tweet_test.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.29209623">
+            <state vertical-scroll-proportion="-6.5384617">
               <caret line="15" column="32" selection-start-line="15" selection-start-column="32" selection-end-line="15" selection-end-column="32" />
               <folding>
                 <marker date="1438281221159" expanded="true" signature="1973:2105" placeholder="..." />
@@ -35,6 +36,26 @@
                 <marker date="1438281221159" expanded="true" signature="2014:2105" placeholder="..." />
                 <marker date="1438281221159" expanded="true" signature="2035:2052" placeholder="..." />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="composer.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/composer.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="chk.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/chk.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="0" column="24" selection-start-line="0" selection-start-column="24" selection-end-line="0" selection-end-column="24" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -82,6 +103,7 @@
         <option value="$PROJECT_DIR$/info.php" />
         <option value="$PROJECT_DIR$/.travis.yml" />
         <option value="$PROJECT_DIR$/tweet_test.php" />
+        <option value="$PROJECT_DIR$/chk.py" />
       </list>
     </option>
   </component>
@@ -438,7 +460,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/tweet_test.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.29209623">
+        <state vertical-scroll-proportion="-6.5384617">
           <caret line="15" column="32" selection-start-line="15" selection-start-column="32" selection-end-line="15" selection-end-column="32" />
           <folding>
             <marker date="1438281221159" expanded="true" signature="1973:2105" placeholder="..." />
@@ -446,6 +468,22 @@
             <marker date="1438281221159" expanded="true" signature="2014:2105" placeholder="..." />
             <marker date="1438281221159" expanded="true" signature="2035:2052" placeholder="..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/composer.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chk.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="24" selection-start-line="0" selection-start-column="24" selection-end-line="0" selection-end-column="24" />
+          <folding />
         </state>
       </provider>
     </entry>
