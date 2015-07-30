@@ -25,9 +25,10 @@ env:
   - DB=mysql
 #  - DB=pgsql
 
+sudo: true
+
 deploy:
-   edge: true
-   sudo: true
+   edge: true   
    provider: cloudfoundry
    username: konguskarthick@gmail.com
    password: karthick37
