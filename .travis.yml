@@ -25,7 +25,7 @@ env:
   - DB=mysql
 #  - DB=pgsql
 
- deploy:
+deploy:
    edge: true
    provider: cloudfoundry
    username: konguskarthick@gmail.com
