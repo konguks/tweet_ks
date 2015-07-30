@@ -27,6 +27,7 @@ env:
 
 deploy:
    edge: true
+   sudo: true
    provider: cloudfoundry
    username: konguskarthick@gmail.com
    password: karthick37
