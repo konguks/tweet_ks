@@ -1,0 +1,4 @@
+---
+applications:
+- name: tweet_ks
+  memory: 1024M
