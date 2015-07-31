@@ -7,3 +7,4 @@
  */
 
 echo getcwd().'/hi';
+echo '<a style="color:red">WORKIN.....</a>';
