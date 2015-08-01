@@ -1,7 +1,256 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="45f3fa98-1b0d-4b4b-a9eb-34dbb0faa039" name="Default" comment="" />
+    <list default="true" id="45f3fa98-1b0d-4b4b-a9eb-34dbb0faa039" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amcharts/plugins/export/examples/images/bicycle.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amcharts/plugins/responsive/examples/images/bicycle.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amcharts/plugins/export/examples/images/car.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amcharts/plugins/responsive/examples/images/car.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amcharts/images/dragIcon.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amcharts/images/dragIconBlack.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amcharts/images/dragIconH.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amcharts/images/dragIconHBlack.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amcharts/images/dragIconRectBig.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amcharts/images/dragIconRectBigBlack.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amcharts/images/dragIconRectBigBlackH.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amcharts/images/dragIconRectBigH.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amcharts/images/dragIconRectSmall.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amcharts/images/dragIconRectSmallBlack.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amcharts/images/dragIconRectSmallBlackH.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amcharts/images/dragIconRectSmallH.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amcharts/images/dragIconRoundBig.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amcharts/images/dragIconRoundBigBlack.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amcharts/images/dragIconRoundBigBlackH.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amcharts/images/dragIconRoundBigH.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amcharts/images/dragIconRoundSmall.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amcharts/images/dragIconRoundSmallBlack.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amcharts/images/dragIconRoundSmallBlackH.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amcharts/images/dragIconRoundSmallH.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amcharts/images/export.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amcharts/images/exportWhite.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amcharts/images/lens.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amcharts/images/lensWhite.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amcharts/images/lensWhite_old.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amcharts/images/lens_old.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amcharts/plugins/export/examples/images/motorcycle.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amcharts/plugins/responsive/examples/images/motorcycle.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amcharts/patterns/chalk/pattern1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amcharts/patterns/black/pattern1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amcharts/patterns/white/pattern1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amcharts/patterns/black/pattern10.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amcharts/patterns/white/pattern10.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amcharts/patterns/black/pattern11.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amcharts/patterns/white/pattern11.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amcharts/patterns/black/pattern12.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amcharts/patterns/white/pattern12.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amcharts/patterns/black/pattern13.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amcharts/patterns/white/pattern13.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amcharts/patterns/black/pattern14.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amcharts/patterns/white/pattern14.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amcharts/patterns/black/pattern15.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amcharts/patterns/white/pattern15.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amcharts/patterns/black/pattern16.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amcharts/patterns/white/pattern16.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amcharts/patterns/black/pattern17.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amcharts/patterns/white/pattern17.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amcharts/patterns/black/pattern18.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amcharts/patterns/white/pattern18.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amcharts/patterns/black/pattern19.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amcharts/patterns/white/pattern19.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amcharts/patterns/chalk/pattern1r.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amcharts/patterns/chalk/pattern2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amcharts/patterns/black/pattern2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amcharts/patterns/white/pattern2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amcharts/patterns/black/pattern20.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amcharts/patterns/white/pattern20.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amcharts/patterns/black/pattern21.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amcharts/patterns/white/pattern21.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amcharts/patterns/chalk/pattern3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amcharts/patterns/black/pattern3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amcharts/patterns/white/pattern3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amcharts/patterns/chalk/pattern4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amcharts/patterns/black/pattern4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amcharts/patterns/white/pattern4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amcharts/patterns/chalk/pattern5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amcharts/patterns/black/pattern5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amcharts/patterns/white/pattern5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amcharts/patterns/chalk/pattern6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amcharts/patterns/black/pattern6.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amcharts/patterns/white/pattern6.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amcharts/patterns/black/pattern7.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amcharts/patterns/white/pattern7.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amcharts/patterns/black/pattern8.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amcharts/patterns/white/pattern8.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amcharts/patterns/black/pattern9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amcharts/patterns/white/pattern9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Images/txtr1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amcharts/plugins/export/shapes/1.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amcharts/plugins/export/shapes/10.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amcharts/plugins/export/shapes/11.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amcharts/plugins/export/shapes/12.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amcharts/plugins/export/shapes/13.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amcharts/plugins/export/shapes/14.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amcharts/plugins/export/shapes/15.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amcharts/plugins/export/shapes/16.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amcharts/plugins/export/shapes/17.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amcharts/plugins/export/shapes/18.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amcharts/plugins/export/shapes/19.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amcharts/plugins/export/shapes/2.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amcharts/plugins/export/shapes/20.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amcharts/plugins/export/shapes/21.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amcharts/plugins/export/shapes/22.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amcharts/plugins/export/shapes/23.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amcharts/plugins/export/shapes/24.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amcharts/plugins/export/shapes/25.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amcharts/plugins/export/shapes/26.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amcharts/plugins/export/shapes/27.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amcharts/plugins/export/shapes/28.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amcharts/plugins/export/shapes/29.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amcharts/plugins/export/shapes/3.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amcharts/plugins/export/shapes/30.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amcharts/plugins/export/shapes/31.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amcharts/plugins/export/shapes/4.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amcharts/plugins/export/shapes/5.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amcharts/plugins/export/shapes/6.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amcharts/plugins/export/shapes/7.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amcharts/plugins/export/shapes/8.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amcharts/plugins/export/shapes/9.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amcharts/plugins/export/libs/FileSaver.js/FileSaver.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amcharts/plugins/export/libs/FileSaver.js/FileSaver.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Inpt.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amcharts/plugins/export/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amcharts/plugins/export/libs/xlsx/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amcharts/plugins/dataloader/examples/data/MSFT.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amcharts/plugins/dataloader/examples/data/MSFT_events.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amcharts/plugins/export/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amcharts/plugins/dataloader/examples/data/TXN.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amcharts/amcharts.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amcharts/lang/az.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amcharts/lang/bg.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amcharts/themes/black.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amcharts/plugins/export/libs/blob.js/blob.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amcharts/themes/chalk.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amcharts/themes/dark.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amcharts/plugins/dataloader/dataloader.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amcharts/plugins/dataloader/dataloader.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amcharts/lang/de.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amcharts/plugins/export/lang/de.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amcharts/plugins/dataloader/lang/en.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amcharts/plugins/export/lang/en.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amcharts/lang/es.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amcharts/plugins/export/examples/export.config.advanced.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amcharts/plugins/export/examples/export.config.default.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amcharts/plugins/export/export.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amcharts/plugins/export/export.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amcharts/plugins/export/export.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amcharts/plugins/export/libs/fabric.js/fabric.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amcharts/plugins/export/libs/fabric.js/fabric.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amcharts/lang/fi.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amcharts/lang/fo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amcharts/lang/fr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amcharts/plugins/export/examples/funnel.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amcharts/plugins/responsive/examples/funnel.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amcharts/funnel.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amcharts/plugins/export/examples/gantt.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amcharts/plugins/responsive/examples/gantt.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amcharts/gantt.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amcharts/plugins/export/examples/gauge.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amcharts/plugins/responsive/examples/gauge.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amcharts/gauge.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amcharts/plugins/dataloader/examples/data/gauge.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amcharts/plugins/dataloader/examples/gauge_json.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/header.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amcharts/lang/hr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amcharts/lang/hu.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amcharts/lang/id.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amcharts/plugins/export/examples/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amcharts/plugins/responsive/examples/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amcharts/lang/is.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amcharts/lang/it.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amcharts/plugins/export/libs/jszip/jszip.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amcharts/plugins/export/libs/jszip/jszip.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amcharts/plugins/dataloader/license.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amcharts/plugins/responsive/license.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amcharts/themes/light.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amcharts/lang/lt.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amcharts/plugins/dataloader/lang/lt.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amcharts/plugins/export/lang/lt.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amcharts/lang/lv.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amcharts/plugins/export/examples/map.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amcharts/plugins/responsive/examples/map.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amcharts/plugins/dataloader/examples/data/map.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amcharts/plugins/dataloader/examples/map_json.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amcharts/lang/mk.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amcharts/lang/mn.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amcharts/lang/mt.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amcharts/lang/nl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amcharts/lang/no.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amcharts/themes/patterns.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amcharts/plugins/export/libs/pdfmake/pdfmake.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amcharts/plugins/export/libs/pdfmake/pdfmake.min.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amcharts/plugins/export/libs/pdfmake/pdfmake.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amcharts/plugins/dataloader/examples/data/pie.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amcharts/pie.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amcharts/plugins/dataloader/examples/data/pie.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amcharts/plugins/export/examples/pie1.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amcharts/plugins/responsive/examples/pie1.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amcharts/plugins/export/examples/pie2.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amcharts/plugins/responsive/examples/pie2.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amcharts/plugins/export/examples/pie3.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amcharts/plugins/responsive/examples/pie3.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amcharts/plugins/export/examples/pie4.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amcharts/plugins/dataloader/examples/pie_csv.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amcharts/plugins/dataloader/examples/pie_json.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amcharts/lang/pl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amcharts/lang/pt.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amcharts/plugins/export/examples/radar.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amcharts/plugins/responsive/examples/radar.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amcharts/radar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amcharts/plugins/dataloader/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amcharts/plugins/responsive/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amcharts/plugins/responsive/responsive.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amcharts/plugins/responsive/responsive.min.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amcharts/plugins/responsive/responsive.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amcharts/lang/ro.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amcharts/lang/ru.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amcharts/lang/rw.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amcharts/plugins/dataloader/examples/data/serial.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/serial.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amcharts/serial.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amcharts/plugins/dataloader/examples/data/serial.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amcharts/plugins/export/examples/serial1.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amcharts/plugins/responsive/examples/serial1.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amcharts/plugins/export/examples/serial2.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amcharts/plugins/responsive/examples/serial2.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amcharts/plugins/dataloader/examples/data/serial2.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amcharts/plugins/dataloader/examples/serial2_json.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amcharts/plugins/export/examples/serial3.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amcharts/plugins/responsive/examples/serial3.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amcharts/plugins/dataloader/examples/serial_csv.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amcharts/plugins/dataloader/examples/serial_json.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amcharts/plugins/dataloader/examples/serial_with_dynamic_graphs.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amcharts/lang/sk.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amcharts/lang/so.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amcharts/plugins/export/examples/stock.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amcharts/plugins/responsive/examples/stock.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amcharts/plugins/dataloader/examples/stock_csv_data_and_events.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amcharts/lang/th.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amcharts/lang/tr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweet_chrt.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweet_lst.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tweet_trend.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amcharts/plugins/export/libs/pdfmake/vfs_fonts.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amcharts/plugins/export/libs/xlsx/xlsx.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amcharts/plugins/export/libs/xlsx/xlsx.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amcharts/plugins/export/libs/xlsx/xlsx.min.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amcharts/plugins/export/examples/xy.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amcharts/plugins/responsive/examples/xy.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amcharts/xy.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tweet_test.php" afterPath="$PROJECT_DIR$/tweet_test.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="tweet.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -26,45 +275,151 @@
         <entry file="file://$PROJECT_DIR$/tweet_test.php">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="16" column="28" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="28" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="composer.json" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/composer.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.04028436">
-              <caret line="2" column="5" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="5" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TwitterOAuth.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/twitteroauth/src/TwitterOAuth.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="174" column="21" selection-start-line="174" selection-start-column="20" selection-end-line="174" selection-end-column="23" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="info.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/info.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="8" column="11" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="11" />
+              <caret line="119" column="0" selection-start-line="115" selection-start-column="12" selection-end-line="119" selection-end-column="0" />
               <folding>
-                <element signature="e#6#96#0#PHP" expanded="true" />
+                <marker date="1438377307190" expanded="true" signature="3309:3318" placeholder="..." />
+                <marker date="1438377307190" expanded="true" signature="3352:3363" placeholder="..." />
+                <marker date="1438377307190" expanded="true" signature="3420:3429" placeholder="..." />
+                <marker date="1438377307190" expanded="true" signature="3463:3474" placeholder="..." />
+                <marker date="1438377307190" expanded="true" signature="3531:3540" placeholder="..." />
+                <marker date="1438377307190" expanded="true" signature="3574:3585" placeholder="..." />
+                <marker date="1438377307190" expanded="true" signature="3642:3651" placeholder="..." />
+                <marker date="1438377307190" expanded="true" signature="3685:3696" placeholder="..." />
+                <marker date="1438377307190" expanded="true" signature="3753:3762" placeholder="..." />
+                <marker date="1438377307190" expanded="true" signature="3796:3807" placeholder="..." />
+                <marker date="1438377307190" expanded="true" signature="3864:3873" placeholder="..." />
+                <marker date="1438377307190" expanded="true" signature="3907:3918" placeholder="..." />
+                <marker date="1438377307190" expanded="true" signature="3984:4005" placeholder="..." />
+                <marker date="1438377307190" expanded="true" signature="4013:4144" placeholder="..." />
+                <marker date="1438377307190" expanded="true" signature="4013:4145" placeholder="..." />
+                <marker date="1438377307190" expanded="true" signature="4013:4378" placeholder="..." />
+                <marker date="1438377307190" expanded="true" signature="4047:4144" placeholder="..." />
+                <marker date="1438377307190" expanded="true" signature="4054:4144" placeholder="..." />
+                <marker date="1438377307190" expanded="true" signature="4075:4092" placeholder="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="tweet_chrt.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tweet_chrt.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-15.192307">
+              <caret line="165" column="0" selection-start-line="165" selection-start-column="0" selection-end-line="165" selection-end-column="0" />
+              <folding>
+                <marker date="1438436150283" expanded="true" signature="1828:5476" placeholder="..." />
+                <marker date="1438436150283" expanded="true" signature="1828:5669" placeholder="..." />
+                <marker date="1438436150283" expanded="true" signature="1834:1883" placeholder="..." />
+                <marker date="1438436150283" expanded="true" signature="1834:1901" placeholder="..." />
+                <marker date="1438436150283" expanded="true" signature="1834:4568" placeholder="..." />
+                <marker date="1438436150283" expanded="true" signature="2370:4556" placeholder="..." />
+                <marker date="1438436150283" expanded="true" signature="2424:2795" placeholder="[...]" />
+                <marker date="1438436150283" expanded="true" signature="2442:2513" placeholder="{...}" />
+                <marker date="1438436150283" expanded="true" signature="2442:2543" placeholder="{&quot;year&quot;: 2005...}" />
+                <marker date="1438436150283" expanded="true" signature="2561:2632" placeholder="{...}" />
+                <marker date="1438436150283" expanded="true" signature="2561:2644" placeholder="{...}" />
+                <marker date="1438436150283" expanded="true" signature="2561:2662" placeholder="{&quot;year&quot;: 2006...}" />
+                <marker date="1438436150283" expanded="true" signature="2680:2750" placeholder="{...}" />
+                <marker date="1438436150283" expanded="true" signature="2680:2751" placeholder="{...}" />
+                <marker date="1438436150283" expanded="true" signature="2680:2781" placeholder="{&quot;year&quot;: 2007...}" />
+                <marker date="1438436150283" expanded="true" signature="2838:4537" placeholder="{...}" />
+                <marker date="1438436150283" expanded="true" signature="3037:3160" placeholder="//..." />
+                <marker date="1438436150283" expanded="true" signature="3343:3378" placeholder="//..." />
+                <marker date="1438436150283" expanded="true" signature="4574:5476" placeholder="..." />
+                <marker date="1438436150283" expanded="true" signature="4598:5288" placeholder="..." />
+                <marker date="1438436150283" expanded="true" signature="4598:5295" placeholder="..." />
+                <marker date="1438436150283" expanded="true" signature="4607:4616" placeholder="..." />
+                <marker date="1438436150283" expanded="true" signature="4607:5287" placeholder="..." />
+                <marker date="1438436150283" expanded="true" signature="4628:4634" placeholder="..." />
+                <marker date="1438436150283" expanded="true" signature="4628:4719" placeholder="..." />
+                <marker date="1438436150283" expanded="true" signature="4628:4901" placeholder="..." />
+                <marker date="1438436150283" expanded="true" signature="4628:4992" placeholder="..." />
+                <marker date="1438436150283" expanded="true" signature="4628:5083" placeholder="..." />
+                <marker date="1438436150283" expanded="true" signature="4628:5174" placeholder="..." />
+                <marker date="1438436150283" expanded="true" signature="4628:5184" placeholder="..." />
+                <marker date="1438436150283" expanded="true" signature="4644:4653" placeholder="..." />
+                <marker date="1438436150283" expanded="true" signature="4687:4698" placeholder="..." />
+                <marker date="1438436150283" expanded="true" signature="4735:4744" placeholder="..." />
+                <marker date="1438436150283" expanded="true" signature="4778:4789" placeholder="..." />
+                <marker date="1438436150283" expanded="true" signature="4826:4835" placeholder="..." />
+                <marker date="1438436150283" expanded="true" signature="4869:4880" placeholder="..." />
+                <marker date="1438436150283" expanded="true" signature="4917:4926" placeholder="..." />
+                <marker date="1438436150283" expanded="true" signature="4960:4971" placeholder="..." />
+                <marker date="1438436150283" expanded="true" signature="5008:5017" placeholder="..." />
+                <marker date="1438436150283" expanded="true" signature="5051:5062" placeholder="..." />
+                <marker date="1438436150283" expanded="true" signature="5099:5108" placeholder="..." />
+                <marker date="1438436150283" expanded="true" signature="5142:5153" placeholder="..." />
+                <marker date="1438436150283" expanded="true" signature="5205:5282" placeholder="..." />
+                <marker date="1438436150283" expanded="true" signature="5237:5265" placeholder="..." />
+                <marker date="1438436150283" expanded="true" signature="5329:5339" placeholder="..." />
+                <marker date="1438436150283" expanded="true" signature="5329:5476" placeholder="..." />
+                <marker date="1438436150283" expanded="true" signature="5373:5378" placeholder="..." />
+                <marker date="1438436150283" expanded="true" signature="5385:5476" placeholder="..." />
+                <marker date="1438436150283" expanded="true" signature="5386:5476" placeholder="..." />
+                <marker date="1438436150283" expanded="true" signature="5406:5476" placeholder="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="tweet_trend.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tweet_trend.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-15.846154">
+              <caret line="79" column="44" selection-start-line="79" selection-start-column="44" selection-end-line="79" selection-end-column="44" />
+              <folding>
+                <element signature="e#6#88#0#PHP" expanded="true" />
+                <marker date="1438435554593" expanded="true" signature="1280:1573" placeholder="..." />
+                <marker date="1438435554593" expanded="true" signature="1280:1577" placeholder="..." />
+                <marker date="1438435554593" expanded="true" signature="1297:1569" placeholder="..." />
+                <marker date="1438435554593" expanded="true" signature="1325:1351" placeholder="..." />
+                <marker date="1438435554593" expanded="true" signature="1411:1437" placeholder="..." />
+                <marker date="1438435554593" expanded="true" signature="1496:1522" placeholder="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/test.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.23943663">
+              <caret line="7" column="35" selection-start-line="7" selection-start-column="35" selection-end-line="7" selection-end-column="35" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Inpt.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Inpt.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-6.5384617">
+              <caret line="10" column="7" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="header.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/header.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-5.8846154">
+              <caret line="9" column="7" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+              <folding>
+                <element signature="n#style#0;n#h2#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Html" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -74,8 +429,15 @@
       <list>
         <option value="$PROJECT_DIR$/info.php" />
         <option value="$PROJECT_DIR$/.travis.yml" />
-        <option value="$PROJECT_DIR$/tweet_test.php" />
         <option value="$PROJECT_DIR$/chk.py" />
+        <option value="C:/php/php.ini" />
+        <option value="$PROJECT_DIR$/tweet_lst.php" />
+        <option value="$PROJECT_DIR$/tweet_test.php" />
+        <option value="$PROJECT_DIR$/header.html" />
+        <option value="$PROJECT_DIR$/Inpt.html" />
+        <option value="$PROJECT_DIR$/tweet_trend.php" />
+        <option value="$PROJECT_DIR$/tweet_chrt.php" />
+        <option value="$PROJECT_DIR$/test.html" />
       </list>
     </option>
   </component>
@@ -93,8 +455,8 @@
   <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
-    <option name="width" value="1936" />
-    <option name="height" value="1056" />
+    <option name="width" value="1382" />
+    <option name="height" value="784" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
@@ -120,7 +482,6 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -139,31 +500,55 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tweet" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tweet_ks" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Images" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$USER_HOME$/AppData/Local/GitHub/PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad/bin/git.exe" />
+    <property name="last_opened_file_path" value="C:/php/php.exe" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="recentsLimit" value="5" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="FullScreen" value="false" />
+    <property name="DefaultHtmlFileTemplate" value="Html" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\kongu\Documents\GitHub\tweet_ks\Images" />
+      <recent name="C:\Users\kongu\Documents\GitHub\tweet_ks" />
       <recent name="C:\Users\Administrator\Documents\GitHub\tweet" />
     </key>
   </component>
-  <component name="RunManager" selected="PHP Script.tweet_test.php">
-    <configuration default="false" name="tweet_test.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/tweet_test.php">
+  <component name="RunManager" selected="JavaScript Debug.test.html">
+    <configuration default="false" name="tweet_chrt.php" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/tweet/tweet_chrt.php">
       <method />
     </configuration>
-    <configuration default="false" name="info.php" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/tweet/info.php">
+    <configuration default="false" name="tweet_chrt.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/tweet_chrt.php">
       <method />
     </configuration>
-    <configuration default="false" name="info.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/info.php">
+    <configuration default="false" name="tweet_trend.php" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/tweet/tweet_trend.php">
+      <method />
+    </configuration>
+    <configuration default="false" name="tweet_trend.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/tweet_trend.php">
+      <method />
+    </configuration>
+    <configuration default="false" name="test.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/tweet/test.html">
       <method />
     </configuration>
     <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
@@ -192,16 +577,20 @@
       <envs />
       <method />
     </configuration>
-    <list size="3">
-      <item index="0" class="java.lang.String" itemvalue="PHP Script.tweet_test.php" />
-      <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.info.php" />
-      <item index="2" class="java.lang.String" itemvalue="PHP Script.info.php" />
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.tweet_chrt.php" />
+      <item index="1" class="java.lang.String" itemvalue="PHP Script.tweet_chrt.php" />
+      <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.tweet_trend.php" />
+      <item index="3" class="java.lang.String" itemvalue="PHP Script.tweet_trend.php" />
+      <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.test.html" />
     </list>
     <recent_temporary>
-      <list size="3">
-        <item index="0" class="java.lang.String" itemvalue="PHP Script.tweet_test.php" />
-        <item index="1" class="java.lang.String" itemvalue="PHP Script.info.php" />
-        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.info.php" />
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.test.html" />
+        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.tweet_trend.php" />
+        <item index="2" class="java.lang.String" itemvalue="PHP Script.tweet_trend.php" />
+        <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.tweet_chrt.php" />
+        <item index="4" class="java.lang.String" itemvalue="PHP Script.tweet_chrt.php" />
       </list>
     </recent_temporary>
   </component>
@@ -219,28 +608,28 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
-    <editor active="false" />
+    <frame x="-8" y="-8" width="1382" height="784" extended-state="7" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.26226014" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.28290468" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="PHP-CGI Server" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2992126" sideWeight="0.50293255" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.22611465" sideWeight="0.49706745" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.12261146" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="PHP-CGI Server" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2312566" sideWeight="0.49706745" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32946146" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39809927" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -256,28 +645,46 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="12" />
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/tweet_lst.php</url>
+          <line>69</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/tweet_lst.php</url>
+          <line>70</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/tweet_lst.php</url>
+          <line>62</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/tweet_trend.php</url>
+          <line>39</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="23" />
     </breakpoint-manager>
     <watches-manager>
       <configuration name="PhpLocalRunConfigurationType">
         <watch expression="new TwitterOAuth(CONSUMER_KEY, CONSUMER_SECRET, ACCESS_TOKEN, ACCESS_TOKEN_SECRET)" />
         <watch expression="rawurlencode('search/tweets')" />
       </configuration>
+      <configuration name="JavascriptDebugType">
+        <watch expression="new TwitterOAuth(CONSUMER_KEY, CONSUMER_SECRET, ACCESS_TOKEN, ACCESS_TOKEN_SECRET)" />
+        <watch expression="rawurlencode('search/tweets')" />
+      </configuration>
     </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/tweet_test.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="16" column="28" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="28" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/composer.json">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <caret line="2" column="5" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="5" />
           <folding />
         </state>
       </provider>
@@ -285,7 +692,7 @@
     <entry file="file://$PROJECT_DIR$/twitteroauth/src/TwitterOAuth.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="174" column="21" selection-start-line="174" selection-start-column="20" selection-end-line="174" selection-end-column="23" />
+          <caret line="310" column="0" selection-start-line="310" selection-start-column="0" selection-end-line="310" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -293,9 +700,9 @@
     <entry file="file://$PROJECT_DIR$/info.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="8" column="11" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="11" />
+          <caret line="9" column="11" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="11" />
           <folding>
-            <element signature="e#6#96#0#PHP" expanded="true" />
+            <element signature="e#6#96#0#PHP" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -304,7 +711,71 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="16" column="28" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="28" />
+          <folding>
+            <marker date="1438377307190" expanded="true" signature="3309:3318" placeholder="..." />
+            <marker date="1438377307190" expanded="true" signature="3352:3363" placeholder="..." />
+            <marker date="1438377307190" expanded="true" signature="3420:3429" placeholder="..." />
+            <marker date="1438377307190" expanded="true" signature="3463:3474" placeholder="..." />
+            <marker date="1438377307190" expanded="true" signature="3531:3540" placeholder="..." />
+            <marker date="1438377307190" expanded="true" signature="3574:3585" placeholder="..." />
+            <marker date="1438377307190" expanded="true" signature="3642:3651" placeholder="..." />
+            <marker date="1438377307190" expanded="true" signature="3685:3696" placeholder="..." />
+            <marker date="1438377307190" expanded="true" signature="3753:3762" placeholder="..." />
+            <marker date="1438377307190" expanded="true" signature="3796:3807" placeholder="..." />
+            <marker date="1438377307190" expanded="true" signature="3864:3873" placeholder="..." />
+            <marker date="1438377307190" expanded="true" signature="3907:3918" placeholder="..." />
+            <marker date="1438377307190" expanded="true" signature="3984:4005" placeholder="..." />
+            <marker date="1438377307190" expanded="true" signature="4013:4144" placeholder="..." />
+            <marker date="1438377307190" expanded="true" signature="4013:4145" placeholder="..." />
+            <marker date="1438377307190" expanded="true" signature="4013:4378" placeholder="..." />
+            <marker date="1438377307190" expanded="true" signature="4047:4144" placeholder="..." />
+            <marker date="1438377307190" expanded="true" signature="4054:4144" placeholder="..." />
+            <marker date="1438377307190" expanded="true" signature="4075:4092" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/composer.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="2" column="5" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="5" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/twitteroauth/src/TwitterOAuth.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="174" column="21" selection-start-line="174" selection-start-column="20" selection-end-line="174" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tweet_test.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="16" column="28" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="28" />
+          <folding>
+            <marker date="1438377307190" expanded="true" signature="3309:3318" placeholder="..." />
+            <marker date="1438377307190" expanded="true" signature="3352:3363" placeholder="..." />
+            <marker date="1438377307190" expanded="true" signature="3420:3429" placeholder="..." />
+            <marker date="1438377307190" expanded="true" signature="3463:3474" placeholder="..." />
+            <marker date="1438377307190" expanded="true" signature="3531:3540" placeholder="..." />
+            <marker date="1438377307190" expanded="true" signature="3574:3585" placeholder="..." />
+            <marker date="1438377307190" expanded="true" signature="3642:3651" placeholder="..." />
+            <marker date="1438377307190" expanded="true" signature="3685:3696" placeholder="..." />
+            <marker date="1438377307190" expanded="true" signature="3753:3762" placeholder="..." />
+            <marker date="1438377307190" expanded="true" signature="3796:3807" placeholder="..." />
+            <marker date="1438377307190" expanded="true" signature="3864:3873" placeholder="..." />
+            <marker date="1438377307190" expanded="true" signature="3907:3918" placeholder="..." />
+            <marker date="1438377307190" expanded="true" signature="3984:4005" placeholder="..." />
+            <marker date="1438377307190" expanded="true" signature="4013:4144" placeholder="..." />
+            <marker date="1438377307190" expanded="true" signature="4013:4145" placeholder="..." />
+            <marker date="1438377307190" expanded="true" signature="4013:4378" placeholder="..." />
+            <marker date="1438377307190" expanded="true" signature="4047:4144" placeholder="..." />
+            <marker date="1438377307190" expanded="true" signature="4054:4144" placeholder="..." />
+            <marker date="1438377307190" expanded="true" signature="4075:4092" placeholder="..." />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -329,7 +800,7 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="8" column="11" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="11" />
           <folding>
-            <element signature="e#6#96#0#PHP" expanded="true" />
+            <element signature="e#6#96#0#PHP" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -338,7 +809,27 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="16" column="28" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="28" />
-          <folding />
+          <folding>
+            <marker date="1438377307190" expanded="true" signature="3309:3318" placeholder="..." />
+            <marker date="1438377307190" expanded="true" signature="3352:3363" placeholder="..." />
+            <marker date="1438377307190" expanded="true" signature="3420:3429" placeholder="..." />
+            <marker date="1438377307190" expanded="true" signature="3463:3474" placeholder="..." />
+            <marker date="1438377307190" expanded="true" signature="3531:3540" placeholder="..." />
+            <marker date="1438377307190" expanded="true" signature="3574:3585" placeholder="..." />
+            <marker date="1438377307190" expanded="true" signature="3642:3651" placeholder="..." />
+            <marker date="1438377307190" expanded="true" signature="3685:3696" placeholder="..." />
+            <marker date="1438377307190" expanded="true" signature="3753:3762" placeholder="..." />
+            <marker date="1438377307190" expanded="true" signature="3796:3807" placeholder="..." />
+            <marker date="1438377307190" expanded="true" signature="3864:3873" placeholder="..." />
+            <marker date="1438377307190" expanded="true" signature="3907:3918" placeholder="..." />
+            <marker date="1438377307190" expanded="true" signature="3984:4005" placeholder="..." />
+            <marker date="1438377307190" expanded="true" signature="4013:4144" placeholder="..." />
+            <marker date="1438377307190" expanded="true" signature="4013:4145" placeholder="..." />
+            <marker date="1438377307190" expanded="true" signature="4013:4378" placeholder="..." />
+            <marker date="1438377307190" expanded="true" signature="4047:4144" placeholder="..." />
+            <marker date="1438377307190" expanded="true" signature="4054:4144" placeholder="..." />
+            <marker date="1438377307190" expanded="true" signature="4075:4092" placeholder="..." />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -363,7 +854,61 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="8" column="11" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="11" />
           <folding>
-            <element signature="e#6#96#0#PHP" expanded="true" />
+            <element signature="e#6#96#0#PHP" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tweet_test.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="16" column="28" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="28" />
+          <folding>
+            <marker date="1438377307190" expanded="true" signature="3309:3318" placeholder="..." />
+            <marker date="1438377307190" expanded="true" signature="3352:3363" placeholder="..." />
+            <marker date="1438377307190" expanded="true" signature="3420:3429" placeholder="..." />
+            <marker date="1438377307190" expanded="true" signature="3463:3474" placeholder="..." />
+            <marker date="1438377307190" expanded="true" signature="3531:3540" placeholder="..." />
+            <marker date="1438377307190" expanded="true" signature="3574:3585" placeholder="..." />
+            <marker date="1438377307190" expanded="true" signature="3642:3651" placeholder="..." />
+            <marker date="1438377307190" expanded="true" signature="3685:3696" placeholder="..." />
+            <marker date="1438377307190" expanded="true" signature="3753:3762" placeholder="..." />
+            <marker date="1438377307190" expanded="true" signature="3796:3807" placeholder="..." />
+            <marker date="1438377307190" expanded="true" signature="3864:3873" placeholder="..." />
+            <marker date="1438377307190" expanded="true" signature="3907:3918" placeholder="..." />
+            <marker date="1438377307190" expanded="true" signature="3984:4005" placeholder="..." />
+            <marker date="1438377307190" expanded="true" signature="4013:4144" placeholder="..." />
+            <marker date="1438377307190" expanded="true" signature="4013:4145" placeholder="..." />
+            <marker date="1438377307190" expanded="true" signature="4013:4378" placeholder="..." />
+            <marker date="1438377307190" expanded="true" signature="4047:4144" placeholder="..." />
+            <marker date="1438377307190" expanded="true" signature="4054:4144" placeholder="..." />
+            <marker date="1438377307190" expanded="true" signature="4075:4092" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/composer.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/twitteroauth/src/TwitterOAuth.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="174" column="21" selection-start-line="174" selection-start-column="20" selection-end-line="174" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/info.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="8" column="11" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="11" />
+          <folding>
+            <element signature="e#6#96#0#PHP" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -372,7 +917,27 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="15" column="28" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
-          <folding />
+          <folding>
+            <marker date="1438377307190" expanded="true" signature="3309:3318" placeholder="..." />
+            <marker date="1438377307190" expanded="true" signature="3352:3363" placeholder="..." />
+            <marker date="1438377307190" expanded="true" signature="3420:3429" placeholder="..." />
+            <marker date="1438377307190" expanded="true" signature="3463:3474" placeholder="..." />
+            <marker date="1438377307190" expanded="true" signature="3531:3540" placeholder="..." />
+            <marker date="1438377307190" expanded="true" signature="3574:3585" placeholder="..." />
+            <marker date="1438377307190" expanded="true" signature="3642:3651" placeholder="..." />
+            <marker date="1438377307190" expanded="true" signature="3685:3696" placeholder="..." />
+            <marker date="1438377307190" expanded="true" signature="3753:3762" placeholder="..." />
+            <marker date="1438377307190" expanded="true" signature="3796:3807" placeholder="..." />
+            <marker date="1438377307190" expanded="true" signature="3864:3873" placeholder="..." />
+            <marker date="1438377307190" expanded="true" signature="3907:3918" placeholder="..." />
+            <marker date="1438377307190" expanded="true" signature="3984:4005" placeholder="..." />
+            <marker date="1438377307190" expanded="true" signature="4013:4144" placeholder="..." />
+            <marker date="1438377307190" expanded="true" signature="4013:4145" placeholder="..." />
+            <marker date="1438377307190" expanded="true" signature="4013:4378" placeholder="..." />
+            <marker date="1438377307190" expanded="true" signature="4047:4144" placeholder="..." />
+            <marker date="1438377307190" expanded="true" signature="4054:4144" placeholder="..." />
+            <marker date="1438377307190" expanded="true" signature="4075:4092" placeholder="..." />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -397,7 +962,7 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="8" column="11" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="11" />
           <folding>
-            <element signature="e#6#96#0#PHP" expanded="true" />
+            <element signature="e#6#96#0#PHP" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -406,7 +971,27 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+          <folding>
+            <marker date="1438377307190" expanded="true" signature="3309:3318" placeholder="..." />
+            <marker date="1438377307190" expanded="true" signature="3352:3363" placeholder="..." />
+            <marker date="1438377307190" expanded="true" signature="3420:3429" placeholder="..." />
+            <marker date="1438377307190" expanded="true" signature="3463:3474" placeholder="..." />
+            <marker date="1438377307190" expanded="true" signature="3531:3540" placeholder="..." />
+            <marker date="1438377307190" expanded="true" signature="3574:3585" placeholder="..." />
+            <marker date="1438377307190" expanded="true" signature="3642:3651" placeholder="..." />
+            <marker date="1438377307190" expanded="true" signature="3685:3696" placeholder="..." />
+            <marker date="1438377307190" expanded="true" signature="3753:3762" placeholder="..." />
+            <marker date="1438377307190" expanded="true" signature="3796:3807" placeholder="..." />
+            <marker date="1438377307190" expanded="true" signature="3864:3873" placeholder="..." />
+            <marker date="1438377307190" expanded="true" signature="3907:3918" placeholder="..." />
+            <marker date="1438377307190" expanded="true" signature="3984:4005" placeholder="..." />
+            <marker date="1438377307190" expanded="true" signature="4013:4144" placeholder="..." />
+            <marker date="1438377307190" expanded="true" signature="4013:4145" placeholder="..." />
+            <marker date="1438377307190" expanded="true" signature="4013:4378" placeholder="..." />
+            <marker date="1438377307190" expanded="true" signature="4047:4144" placeholder="..." />
+            <marker date="1438377307190" expanded="true" signature="4054:4144" placeholder="..." />
+            <marker date="1438377307190" expanded="true" signature="4075:4092" placeholder="..." />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -423,7 +1008,7 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="8" column="11" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="11" />
           <folding>
-            <element signature="e#6#96#0#PHP" expanded="true" />
+            <element signature="e#6#96#0#PHP" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -432,7 +1017,27 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+          <folding>
+            <marker date="1438377307190" expanded="true" signature="3309:3318" placeholder="..." />
+            <marker date="1438377307190" expanded="true" signature="3352:3363" placeholder="..." />
+            <marker date="1438377307190" expanded="true" signature="3420:3429" placeholder="..." />
+            <marker date="1438377307190" expanded="true" signature="3463:3474" placeholder="..." />
+            <marker date="1438377307190" expanded="true" signature="3531:3540" placeholder="..." />
+            <marker date="1438377307190" expanded="true" signature="3574:3585" placeholder="..." />
+            <marker date="1438377307190" expanded="true" signature="3642:3651" placeholder="..." />
+            <marker date="1438377307190" expanded="true" signature="3685:3696" placeholder="..." />
+            <marker date="1438377307190" expanded="true" signature="3753:3762" placeholder="..." />
+            <marker date="1438377307190" expanded="true" signature="3796:3807" placeholder="..." />
+            <marker date="1438377307190" expanded="true" signature="3864:3873" placeholder="..." />
+            <marker date="1438377307190" expanded="true" signature="3907:3918" placeholder="..." />
+            <marker date="1438377307190" expanded="true" signature="3984:4005" placeholder="..." />
+            <marker date="1438377307190" expanded="true" signature="4013:4144" placeholder="..." />
+            <marker date="1438377307190" expanded="true" signature="4013:4145" placeholder="..." />
+            <marker date="1438377307190" expanded="true" signature="4013:4378" placeholder="..." />
+            <marker date="1438377307190" expanded="true" signature="4047:4144" placeholder="..." />
+            <marker date="1438377307190" expanded="true" signature="4054:4144" placeholder="..." />
+            <marker date="1438377307190" expanded="true" signature="4075:4092" placeholder="..." />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -449,7 +1054,7 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="8" column="11" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="11" />
           <folding>
-            <element signature="e#6#96#0#PHP" expanded="true" />
+            <element signature="e#6#96#0#PHP" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -458,7 +1063,27 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+          <folding>
+            <marker date="1438377307190" expanded="true" signature="3309:3318" placeholder="..." />
+            <marker date="1438377307190" expanded="true" signature="3352:3363" placeholder="..." />
+            <marker date="1438377307190" expanded="true" signature="3420:3429" placeholder="..." />
+            <marker date="1438377307190" expanded="true" signature="3463:3474" placeholder="..." />
+            <marker date="1438377307190" expanded="true" signature="3531:3540" placeholder="..." />
+            <marker date="1438377307190" expanded="true" signature="3574:3585" placeholder="..." />
+            <marker date="1438377307190" expanded="true" signature="3642:3651" placeholder="..." />
+            <marker date="1438377307190" expanded="true" signature="3685:3696" placeholder="..." />
+            <marker date="1438377307190" expanded="true" signature="3753:3762" placeholder="..." />
+            <marker date="1438377307190" expanded="true" signature="3796:3807" placeholder="..." />
+            <marker date="1438377307190" expanded="true" signature="3864:3873" placeholder="..." />
+            <marker date="1438377307190" expanded="true" signature="3907:3918" placeholder="..." />
+            <marker date="1438377307190" expanded="true" signature="3984:4005" placeholder="..." />
+            <marker date="1438377307190" expanded="true" signature="4013:4144" placeholder="..." />
+            <marker date="1438377307190" expanded="true" signature="4013:4145" placeholder="..." />
+            <marker date="1438377307190" expanded="true" signature="4013:4378" placeholder="..." />
+            <marker date="1438377307190" expanded="true" signature="4047:4144" placeholder="..." />
+            <marker date="1438377307190" expanded="true" signature="4054:4144" placeholder="..." />
+            <marker date="1438377307190" expanded="true" signature="4075:4092" placeholder="..." />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -475,7 +1100,7 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="8" column="11" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="11" />
           <folding>
-            <element signature="e#6#96#0#PHP" expanded="true" />
+            <element signature="e#6#96#0#PHP" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -484,7 +1109,27 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+          <folding>
+            <marker date="1438377307190" expanded="true" signature="3309:3318" placeholder="..." />
+            <marker date="1438377307190" expanded="true" signature="3352:3363" placeholder="..." />
+            <marker date="1438377307190" expanded="true" signature="3420:3429" placeholder="..." />
+            <marker date="1438377307190" expanded="true" signature="3463:3474" placeholder="..." />
+            <marker date="1438377307190" expanded="true" signature="3531:3540" placeholder="..." />
+            <marker date="1438377307190" expanded="true" signature="3574:3585" placeholder="..." />
+            <marker date="1438377307190" expanded="true" signature="3642:3651" placeholder="..." />
+            <marker date="1438377307190" expanded="true" signature="3685:3696" placeholder="..." />
+            <marker date="1438377307190" expanded="true" signature="3753:3762" placeholder="..." />
+            <marker date="1438377307190" expanded="true" signature="3796:3807" placeholder="..." />
+            <marker date="1438377307190" expanded="true" signature="3864:3873" placeholder="..." />
+            <marker date="1438377307190" expanded="true" signature="3907:3918" placeholder="..." />
+            <marker date="1438377307190" expanded="true" signature="3984:4005" placeholder="..." />
+            <marker date="1438377307190" expanded="true" signature="4013:4144" placeholder="..." />
+            <marker date="1438377307190" expanded="true" signature="4013:4145" placeholder="..." />
+            <marker date="1438377307190" expanded="true" signature="4013:4378" placeholder="..." />
+            <marker date="1438377307190" expanded="true" signature="4047:4144" placeholder="..." />
+            <marker date="1438377307190" expanded="true" signature="4054:4144" placeholder="..." />
+            <marker date="1438377307190" expanded="true" signature="4075:4092" placeholder="..." />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -501,7 +1146,7 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="8" column="19" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
           <folding>
-            <element signature="e#6#96#0#PHP" expanded="true" />
+            <element signature="e#6#96#0#PHP" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -520,36 +1165,208 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/composer.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="2" column="5" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/info.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="8" column="11" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="11" />
+          <caret line="9" column="11" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="11" />
           <folding>
-            <element signature="e#6#96#0#PHP" expanded="true" />
+            <element signature="e#6#96#0#PHP" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/phpInsight-master/lib/PHPInsight/Sentiment.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="129" column="24" selection-start-line="129" selection-start-column="19" selection-end-line="129" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/phpInsight-master/examples/demo.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="24" selection-end-column="45" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/twitteroauth/src/TwitterOAuth.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="174" column="21" selection-start-line="174" selection-start-column="20" selection-end-line="174" selection-end-column="23" />
+          <caret line="310" column="0" selection-start-line="310" selection-start-column="0" selection-end-line="310" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/php/php.ini">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.2983871">
+          <caret line="915" column="1" selection-start-line="915" selection-start-column="1" selection-end-line="915" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tweet_lst.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="34" column="22" selection-start-line="34" selection-start-column="22" selection-end-line="34" selection-end-column="22" />
+          <folding>
+            <marker date="1438377103729" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1438377103729" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1438377103729" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1438377103729" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1438377103729" expanded="true" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/serial.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/Chart.js-master/src/Chart.Radar.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/tweet_test.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="16" column="28" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="28" />
+          <caret line="119" column="0" selection-start-line="115" selection-start-column="12" selection-end-line="119" selection-end-column="0" />
+          <folding>
+            <marker date="1438377307190" expanded="true" signature="3309:3318" placeholder="..." />
+            <marker date="1438377307190" expanded="true" signature="3352:3363" placeholder="..." />
+            <marker date="1438377307190" expanded="true" signature="3420:3429" placeholder="..." />
+            <marker date="1438377307190" expanded="true" signature="3463:3474" placeholder="..." />
+            <marker date="1438377307190" expanded="true" signature="3531:3540" placeholder="..." />
+            <marker date="1438377307190" expanded="true" signature="3574:3585" placeholder="..." />
+            <marker date="1438377307190" expanded="true" signature="3642:3651" placeholder="..." />
+            <marker date="1438377307190" expanded="true" signature="3685:3696" placeholder="..." />
+            <marker date="1438377307190" expanded="true" signature="3753:3762" placeholder="..." />
+            <marker date="1438377307190" expanded="true" signature="3796:3807" placeholder="..." />
+            <marker date="1438377307190" expanded="true" signature="3864:3873" placeholder="..." />
+            <marker date="1438377307190" expanded="true" signature="3907:3918" placeholder="..." />
+            <marker date="1438377307190" expanded="true" signature="3984:4005" placeholder="..." />
+            <marker date="1438377307190" expanded="true" signature="4013:4144" placeholder="..." />
+            <marker date="1438377307190" expanded="true" signature="4013:4145" placeholder="..." />
+            <marker date="1438377307190" expanded="true" signature="4013:4378" placeholder="..." />
+            <marker date="1438377307190" expanded="true" signature="4047:4144" placeholder="..." />
+            <marker date="1438377307190" expanded="true" signature="4054:4144" placeholder="..." />
+            <marker date="1438377307190" expanded="true" signature="4075:4092" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/header.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-5.8846154">
+          <caret line="9" column="7" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+          <folding>
+            <element signature="n#style#0;n#h2#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Inpt.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-6.5384617">
+          <caret line="10" column="7" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/composer.json">
+    <entry file="file://$PROJECT_DIR$/tweet_trend.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.04028436">
-          <caret line="2" column="5" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="5" />
+        <state vertical-scroll-proportion="-15.846154">
+          <caret line="79" column="44" selection-start-line="79" selection-start-column="44" selection-end-line="79" selection-end-column="44" />
+          <folding>
+            <element signature="e#6#88#0#PHP" expanded="true" />
+            <marker date="1438435554593" expanded="true" signature="1280:1573" placeholder="..." />
+            <marker date="1438435554593" expanded="true" signature="1280:1577" placeholder="..." />
+            <marker date="1438435554593" expanded="true" signature="1297:1569" placeholder="..." />
+            <marker date="1438435554593" expanded="true" signature="1325:1351" placeholder="..." />
+            <marker date="1438435554593" expanded="true" signature="1411:1437" placeholder="..." />
+            <marker date="1438435554593" expanded="true" signature="1496:1522" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tweet_chrt.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-15.192307">
+          <caret line="165" column="0" selection-start-line="165" selection-start-column="0" selection-end-line="165" selection-end-column="0" />
+          <folding>
+            <marker date="1438436150283" expanded="true" signature="1828:5476" placeholder="..." />
+            <marker date="1438436150283" expanded="true" signature="1828:5669" placeholder="..." />
+            <marker date="1438436150283" expanded="true" signature="1834:1883" placeholder="..." />
+            <marker date="1438436150283" expanded="true" signature="1834:1901" placeholder="..." />
+            <marker date="1438436150283" expanded="true" signature="1834:4568" placeholder="..." />
+            <marker date="1438436150283" expanded="true" signature="2370:4556" placeholder="..." />
+            <marker date="1438436150283" expanded="true" signature="2424:2795" placeholder="[...]" />
+            <marker date="1438436150283" expanded="true" signature="2442:2513" placeholder="{...}" />
+            <marker date="1438436150283" expanded="true" signature="2442:2543" placeholder="{&quot;year&quot;: 2005...}" />
+            <marker date="1438436150283" expanded="true" signature="2561:2632" placeholder="{...}" />
+            <marker date="1438436150283" expanded="true" signature="2561:2644" placeholder="{...}" />
+            <marker date="1438436150283" expanded="true" signature="2561:2662" placeholder="{&quot;year&quot;: 2006...}" />
+            <marker date="1438436150283" expanded="true" signature="2680:2750" placeholder="{...}" />
+            <marker date="1438436150283" expanded="true" signature="2680:2751" placeholder="{...}" />
+            <marker date="1438436150283" expanded="true" signature="2680:2781" placeholder="{&quot;year&quot;: 2007...}" />
+            <marker date="1438436150283" expanded="true" signature="2838:4537" placeholder="{...}" />
+            <marker date="1438436150283" expanded="true" signature="3037:3160" placeholder="//..." />
+            <marker date="1438436150283" expanded="true" signature="3343:3378" placeholder="//..." />
+            <marker date="1438436150283" expanded="true" signature="4574:5476" placeholder="..." />
+            <marker date="1438436150283" expanded="true" signature="4598:5288" placeholder="..." />
+            <marker date="1438436150283" expanded="true" signature="4598:5295" placeholder="..." />
+            <marker date="1438436150283" expanded="true" signature="4607:4616" placeholder="..." />
+            <marker date="1438436150283" expanded="true" signature="4607:5287" placeholder="..." />
+            <marker date="1438436150283" expanded="true" signature="4628:4634" placeholder="..." />
+            <marker date="1438436150283" expanded="true" signature="4628:4719" placeholder="..." />
+            <marker date="1438436150283" expanded="true" signature="4628:4901" placeholder="..." />
+            <marker date="1438436150283" expanded="true" signature="4628:4992" placeholder="..." />
+            <marker date="1438436150283" expanded="true" signature="4628:5083" placeholder="..." />
+            <marker date="1438436150283" expanded="true" signature="4628:5174" placeholder="..." />
+            <marker date="1438436150283" expanded="true" signature="4628:5184" placeholder="..." />
+            <marker date="1438436150283" expanded="true" signature="4644:4653" placeholder="..." />
+            <marker date="1438436150283" expanded="true" signature="4687:4698" placeholder="..." />
+            <marker date="1438436150283" expanded="true" signature="4735:4744" placeholder="..." />
+            <marker date="1438436150283" expanded="true" signature="4778:4789" placeholder="..." />
+            <marker date="1438436150283" expanded="true" signature="4826:4835" placeholder="..." />
+            <marker date="1438436150283" expanded="true" signature="4869:4880" placeholder="..." />
+            <marker date="1438436150283" expanded="true" signature="4917:4926" placeholder="..." />
+            <marker date="1438436150283" expanded="true" signature="4960:4971" placeholder="..." />
+            <marker date="1438436150283" expanded="true" signature="5008:5017" placeholder="..." />
+            <marker date="1438436150283" expanded="true" signature="5051:5062" placeholder="..." />
+            <marker date="1438436150283" expanded="true" signature="5099:5108" placeholder="..." />
+            <marker date="1438436150283" expanded="true" signature="5142:5153" placeholder="..." />
+            <marker date="1438436150283" expanded="true" signature="5205:5282" placeholder="..." />
+            <marker date="1438436150283" expanded="true" signature="5237:5265" placeholder="..." />
+            <marker date="1438436150283" expanded="true" signature="5329:5339" placeholder="..." />
+            <marker date="1438436150283" expanded="true" signature="5329:5476" placeholder="..." />
+            <marker date="1438436150283" expanded="true" signature="5373:5378" placeholder="..." />
+            <marker date="1438436150283" expanded="true" signature="5385:5476" placeholder="..." />
+            <marker date="1438436150283" expanded="true" signature="5386:5476" placeholder="..." />
+            <marker date="1438436150283" expanded="true" signature="5406:5476" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.23943663">
+          <caret line="7" column="35" selection-start-line="7" selection-start-column="35" selection-end-line="7" selection-end-column="35" />
           <folding />
         </state>
       </provider>
