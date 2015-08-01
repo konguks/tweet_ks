@@ -2,10 +2,17 @@
         "http://www.w3.org/TR/html4/loose.dtd">
 <html>
 <script type="text/javascript">
+    function rawurlencode(str) {
+        str = (str + '').toString();
+        return encodeURIComponent(str).replace(/!/g, '%21').replace(/'/g, '%27').replace(/\(/g, '%28').replace(/\)/g, '%29').replace(/\*/g, '%2A');
+    }
     function pass(){
-     document.getElementById('srchstr').value;
+        parent.cht.location.replace('tweet_chrt.php?link='+rawurlencode(document.getElementById('src').value));
+        parent.ts.location.replace('tweet_stat.php?link='+rawurlencode(document.getElementById('src').value));
     }
 </script>
-<input type="text" name="srchstr">
-<input type="submit" name="submit" value="SEARCH" onclick="return pass()">
-</html>
+<body background="Images/txtr3.jpg" style="margin: 0px; padding: 0px">
+<div align="center">
+<input type="text" name="srchstr" id="src">
+<button type="button" id="btn" onclick="pass();">Twitanalys..</button>
+</div></body></html>

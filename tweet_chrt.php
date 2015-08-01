@@ -26,10 +26,17 @@ try {
 
     #echo $toa;
     #echo '<h2>STEP 1</h2><br>';
+    if(isset($_GET['link']) && $_GET['link'] != NULL && $_GET['link'] != ''){
+        $hstr  = rawurldecode($_GET['link']);
+    }
+    else{
+        $hstr = "#Verizon";
+    }
 
     $query = array(
-        "q" => rawurlencode("Rs 2.43"),
-        "count" => 1000
+        "q" => rawurlencode($hstr),
+        "count" => 1000,
+        "result_type" => "recent"
     );
 
     $results = $toa->get('search/tweets', $query);
@@ -70,7 +77,7 @@ try {
         }
     }
 
-    echo '<html><head><title>'.$query["q"].'</title>
+    echo '<html><head><title>'.$hstr.'</title>
         <link rel="stylesheet" href="style.css" type="text/css">
         <link rel="stylesheet" href="http://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.css">
         <script src="amcharts/amcharts.js" type="text/javascript"></script>
@@ -120,7 +127,7 @@ try {
                 // value
                 var valueAxis = new AmCharts.ValueAxis();
                 valueAxis.axisColor = "#DADADA";
-                valueAxis.title = "Income in millions, USD";
+                valueAxis.title = "Tweet Counts";
                 valueAxis.gridAlpha = 0.1;
                 chart.addValueAxis(valueAxis);
 
