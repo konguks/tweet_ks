@@ -5,7 +5,7 @@
  * Date: 02-Aug-15
  * Time: 12:58 PM
  */
-class HelloWorld
+class NewWorld
 {
     public function Add($a,$b){
         return $a+$b;
