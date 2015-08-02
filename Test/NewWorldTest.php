@@ -26,7 +26,7 @@ class NewWorldTest extends PHPUnit_Framework_TestCase
         $toa = $nw->GetAPICon();
 
         $query = array(
-            "q" => rawurlencode("#Verizon"),
+            "q" => rawurlencode('#Verizon'),
             "count" => 1000,
             "result_type" => "recent"
         );
@@ -39,8 +39,8 @@ class NewWorldTest extends PHPUnit_Framework_TestCase
         $toa = $nw->GetAPICon();
 
         $query = array(
-            "q" => rawurlencode("#Verizon"),
-            "count" => 1000,
+            "q" => rawurlencode('#Verizon'),
+            "count" => 100,
             "result_type" => "recent"
         );
 
