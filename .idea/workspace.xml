@@ -3,14 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="45f3fa98-1b0d-4b4b-a9eb-34dbb0faa039" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NewWorld.php" afterPath="$PROJECT_DIR$/NewWorld.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Test/NewWorldTest.php" afterPath="$PROJECT_DIR$/Test/NewWorldTest.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Trend_India.php" afterPath="$PROJECT_DIR$/Trend_India.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Trend_world.php" afterPath="$PROJECT_DIR$/Trend_world.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Tweetanalys.html" afterPath="$PROJECT_DIR$/Tweetanalys.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tweet_chrt.php" afterPath="$PROJECT_DIR$/tweet_chrt.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tweet_lst.php" afterPath="$PROJECT_DIR$/tweet_lst.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tweet_stat.php" afterPath="$PROJECT_DIR$/tweet_stat.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tweet_trend.php" afterPath="$PROJECT_DIR$/tweet_trend.php" />
     </list>
     <ignored path="tweet.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -179,11 +171,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="NewWorld.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="NewWorld.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/NewWorld.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-16.846153">
-              <caret line="33" column="0" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.8519164">
+              <caret line="36" column="50" selection-start-line="36" selection-start-column="50" selection-end-line="36" selection-end-column="50" />
               <folding>
                 <element signature="e#6#89#0#PHP" expanded="true" />
               </folding>
@@ -237,10 +229,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Tweetanalys.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Tweetanalys.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Tweetanalys.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.29616725">
+            <state vertical-scroll-proportion="-6.5384617">
               <caret line="10" column="64" selection-start-line="10" selection-start-column="64" selection-end-line="10" selection-end-column="64" />
               <folding />
             </state>
@@ -275,7 +267,6 @@
         <option value="$PROJECT_DIR$/Trend_Ind.php" />
         <option value="$PROJECT_DIR$/Inpt.html" />
         <option value="$PROJECT_DIR$/header.html" />
-        <option value="$PROJECT_DIR$/NewWorld.php" />
         <option value="$PROJECT_DIR$/Test/NewWorldTest.php" />
         <option value="$PROJECT_DIR$/Trend_world.php" />
         <option value="$PROJECT_DIR$/tweet_trend.php" />
@@ -284,6 +275,7 @@
         <option value="$PROJECT_DIR$/tweet_stat.php" />
         <option value="$PROJECT_DIR$/tweet_chrt.php" />
         <option value="$PROJECT_DIR$/Tweetanalys.html" />
+        <option value="$PROJECT_DIR$/NewWorld.php" />
       </list>
     </option>
   </component>
@@ -915,24 +907,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/NewWorld.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-16.846153">
-          <caret line="33" column="0" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
-          <folding>
-            <element signature="e#6#89#0#PHP" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Test/NewWorldTest.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-43.153847">
-          <caret line="66" column="68" selection-start-line="66" selection-start-column="68" selection-end-line="66" selection-end-column="68" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Trend_India.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-7.8461537">
@@ -1074,9 +1048,27 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Tweetanalys.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.29616725">
+        <state vertical-scroll-proportion="-6.5384617">
           <caret line="10" column="64" selection-start-line="10" selection-start-column="64" selection-end-line="10" selection-end-column="64" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Test/NewWorldTest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-43.153847">
+          <caret line="66" column="68" selection-start-line="66" selection-start-column="68" selection-end-line="66" selection-end-column="68" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NewWorld.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.8519164">
+          <caret line="36" column="50" selection-start-line="36" selection-start-column="50" selection-end-line="36" selection-end-column="50" />
+          <folding>
+            <element signature="e#6#89#0#PHP" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
