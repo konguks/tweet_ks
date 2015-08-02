@@ -46,7 +46,7 @@ class NewWorldTest extends PHPUnit_Framework_TestCase
             "result_type" => "recent"
         );
 
-        $this->assertArrayNotHasKey('error',$nw->GetSearchTweet($toa,$query));
+        $this->assertArrayNotHasKey('error',(array)$nw->GetSearchTweet($toa,$query));
     }
     public function testTrendPlace(){
         $nw = new NewWorld();
