@@ -8,17 +8,16 @@
 
 require_once getcwd().'/twitteroauth/autoload.php';
 require_once getcwd().'/phpInsight-master/autoload.php';
+require_once getcwd().'/NewWorld.php';
 use Abraham\TwitterOAuth\TwitterOAuth;
-
-define('CONSUMER_KEY', 'tEOWFrYWgs4ml0PzJtKSsYUrj');
-define('CONSUMER_SECRET', 'o58Tp63xUnNkIJUIr9o96O47kwhvNq1amRciv5F5MtdTLPwX1z');
-define('ACCESS_TOKEN', '714419437-qTbbCQGAq3fx3Hn6RDpv7MZ6CA78BLwDxWlMAY7O');
-define('ACCESS_TOKEN_SECRET', 'bX6sQfSD9MNKez83VAjKWOq7bxWc8DVxsOmTgTOjXuxwi');
+#use NewWorld;
 
 try {
-    $toa = new TwitterOAuth(CONSUMER_KEY, CONSUMER_SECRET, ACCESS_TOKEN, ACCESS_TOKEN_SECRET);
 
     $sentiment = new \PHPInsight\Sentiment();
+    $nw = new NewWorld();
+
+    $toa = $nw->GetAPICon();
 
     $woeid_India = 23424848;
 
@@ -26,7 +25,7 @@ try {
         "id" => $woeid_India
     );
 
-    $results_India = $toa->get('trends/place', $query_India);
+    $results_India = $nw->GetTrendPlace($toa,$query_India);
 
 
     echo '<html><head>
