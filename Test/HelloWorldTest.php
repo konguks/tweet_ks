@@ -25,7 +25,7 @@ class HelloWorldTest extends PHPUnit_Framework_TestCase
 
     public function testHello()
     {
-        $this->asserNotEquals('Karthick','Bhuvana');
+        $this->assertNotEquals('Karthick','Bhuvana');
     }
 
     public function testWhat()
@@ -33,7 +33,7 @@ class HelloWorldTest extends PHPUnit_Framework_TestCase
 
         $this->assertFalse(False);
 
-        $this->asserNotEquals('Karthick','Bhuvana');
+        $this->assertNotEquals('Karthick','Bhuvana');
     }
 
 }
