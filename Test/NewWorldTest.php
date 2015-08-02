@@ -24,9 +24,10 @@ class NewWorldTest extends PHPUnit_Framework_TestCase
     public function testSearchTweet(){
         $nw = new NewWorld();
         $toa = $nw->GetAPICon();
+        $str = '#Verizon';
 
         $query = array(
-            "q" => rawurlencode(Verizon),
+            "q" => rawurlencode($str),
             "count" => 1000,
             "result_type" => "recent"
         );
@@ -37,9 +38,10 @@ class NewWorldTest extends PHPUnit_Framework_TestCase
     public function testNoErrorsrch(){
         $nw = new NewWorld();
         $toa = $nw->GetAPICon();
+        $str = '#Verizon';
 
         $query = array(
-            "q" => rawurlencode(Verizon),
+            "q" => rawurlencode($str),
             "count" => 100,
             "result_type" => "recent"
         );
