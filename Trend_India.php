@@ -30,6 +30,12 @@ try {
 
 
     echo '<html><head>
+            <style>
+                @font-face {
+                    font-family: moltor;
+                    src: url(fonts/Moltorv2i.ttf);
+                }
+            </style>
             <script type="text/javascript">';
     echo "function rawurlencode(str) {
                 str = (str + '').toString();
@@ -40,10 +46,10 @@ try {
                 parent.ts.location.replace('tweet_stat.php?link='+rawurlencode(document.getElementById(id).value));
             }
             </script>
-            </head><body>";
+            </head><body style=\"height: 100%; margin: 0px;\">";
     echo '<table width=100%>
             <tr>
-            <td><a style="color:red;font-size: large"> Trending in India : </a></td>
+            <td><div style="background-image: url("Images/txtr2.jpg");"><a style="font-size: large;font-family: moltor"> Trending in India : </a></div></td>
             </tr>';
     $cnt = 1;
 
