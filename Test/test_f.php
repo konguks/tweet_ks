@@ -7,6 +7,6 @@ class test_f extends PHPUnit_Framework_TestCase
 		$this->assertEquals(5,5);
 	}
 	public function test_2(){
-		$this->asserNotEquals('Karthick','Bhuvana');
+		$this->assertNotEquals('Karthick','Bhuvana');
 	}
 }
