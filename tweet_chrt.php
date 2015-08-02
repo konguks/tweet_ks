@@ -51,6 +51,10 @@ try {
     $neg_cnt = 0;
     $neu_cnt = 0;
 
+    $cnt = 0;
+
+    $chrt_jsn = '[';
+
     foreach ($results->statuses as $result) {
 
         $tmp = $result->text;
@@ -64,6 +68,13 @@ try {
         $scores = $sentiment->score($tmp);
         $class = $sentiment->categorise($tmp);
 
+        $chrt_jsn = $chrt_jsn.'{
+            "Tweet":"'.$cnt.
+            '","POS":'.$scores["pos"].
+            ',"NEU":'.$scores["neu"].
+            ',"NEG":'.$scores["neg"].'},';
+
+        $cnt +=1;
         if($class == 'pos'){
             $pos_cnt += 1;
             $pos_tot += $scores["pos"];
@@ -76,6 +87,10 @@ try {
             $neu_tot += $scores["neu"];
         }
     }
+    $chrt_jsn = rtrim($chrt_jsn, ",");
+    $chrt_jsn =  $chrt_jsn.']';
+
+    #echo $chrt_jsn;
 
     echo '<html><head><title>'.$hstr.'</title>
         <link rel="stylesheet" href="style.css" type="text/css">
@@ -85,7 +100,8 @@ try {
         <script src="http://code.jquery.com/jquery-1.11.3.min.js"></script>
         <script src="http://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.js"></script>
         <script>
-            var chart;
+            var chart1;
+            var chart2;
 
             var chartData = [
                 {
@@ -102,34 +118,57 @@ try {
                 }
             ];
 
+            var chartData2 = '.$chrt_jsn.';
+
 
             AmCharts.ready(function () {
                 // SERIAL CHART
-                chart = new AmCharts.AmSerialChart();
-                chart.dataProvider = chartData;
-                chart.categoryField = "Class";
+                chart1 = new AmCharts.AmSerialChart();
+                chart2 = new AmCharts.AmSerialChart();
+
+                chart1.dataProvider = chartData;
+                chart1.categoryField = "Class";
                 // this single line makes the chart a bar chart,
                 // try to set it to false - your bars will turn to columns
-                chart.rotate = true;
+                chart1.rotate = true;
                 // the following two lines makes chart 3D
-                chart.depth3D = 20;
-                chart.angle = 30;
+                chart1.depth3D = 20;
+                chart1.angle = 30;
+
+                chart2.dataProvider = chartData2;
+                chart2.categoryField = "Tweet";
+
+                chart2.addTitle("Tweet Sentiments", 15);
 
                 // AXES
                 // Category
-                var categoryAxis = chart.categoryAxis;
+                var categoryAxis = chart1.categoryAxis;
                 categoryAxis.gridPosition = "start";
                 categoryAxis.axisColor = "#DADADA";
                 categoryAxis.fillAlpha = 1;
                 categoryAxis.gridAlpha = 0;
                 categoryAxis.fillColor = "#FAFAFA";
 
+                // AXES
+                // Category
+                var categoryAxis2 = chart2.categoryAxis;
+                categoryAxis2.gridAlpha = 0.07;
+                categoryAxis2.axisColor = "#DADADA";
+                categoryAxis2.startOnAxis = true;
+
                 // value
                 var valueAxis = new AmCharts.ValueAxis();
                 valueAxis.axisColor = "#DADADA";
                 valueAxis.title = "Tweet Counts";
                 valueAxis.gridAlpha = 0.1;
-                chart.addValueAxis(valueAxis);
+                chart1.addValueAxis(valueAxis);
+
+                // Value
+                var valueAxis2 = new AmCharts.ValueAxis();
+                valueAxis2.title = "percent"; // this line makes the chart "stacked"
+                valueAxis2.stackType = "100%";
+                valueAxis2.gridAlpha = 0.07;
+                chart2.addValueAxis(valueAxis2);
 
                 // GRAPH
                 var graph = new AmCharts.AmGraph();
@@ -140,28 +179,76 @@ try {
                 graph.lineAlpha = 0;
                 graph.fillColors = "#bf1c25";
                 graph.fillAlphas = 1;
-                chart.addGraph(graph);
+                chart1.addGraph(graph);
 
-                chart.creditsPosition = "top-right";
+                // GRAPHS
+                // first graph
+                var graph2 = new AmCharts.AmGraph();
+                graph2.type = "line";
+                graph2.title = "Negative";
+                graph2.valueField = "NEG";
+                graph2.lineAlpha = 0;
+                graph2.fillAlphas = 0.6; // setting fillAlphas to > 0 value makes it area graph
+                graph2.balloonText = "<img src=\'Images/neg.png\' style=\'vertical-align:bottom; margin-right: 10px; width:28px; height:21px;\'><span style=\'font-size:14px; color:#000000;\'><b>[[value]]</b></span>";
+                chart2.addGraph(graph2);
+
+                // second graph
+                graph2 = new AmCharts.AmGraph();
+                graph2.type = "line";
+                graph2.title = "Neutral";
+                graph2.valueField = "NEU";
+                graph2.lineAlpha = 0;
+                graph2.fillAlphas = 0.6;
+                graph2.balloonText = "<img src=\'Images/neu.png\' style=\'vertical-align:bottom; margin-right: 10px; width:28px; height:21px;\'><span style=\'font-size:14px; color:#000000;\'><b>[[value]]</b></span>";
+                chart2.addGraph(graph2);
+
+                // third graph
+                graph2 = new AmCharts.AmGraph();
+                graph2.type = "line";
+                graph2.title = "Positive";
+                graph2.valueField = "POS";
+                graph2.lineAlpha = 0;
+                graph2.fillAlphas = 0.6;
+                graph2.fillColors = "#009900";
+                graph2.balloonText = "<img src=\'Images/pos.png\' style=\'vertical-align:bottom; margin-right: 10px; width:28px; height:21px;\'><span style=\'font-size:14px; color:#000000;\'><b>[[value]]</b></span>";
+                chart2.addGraph(graph2);
+
+                chart1.creditsPosition = "top-right";
 
                 // WRITE
-                chart.write("chartdiv");
+                chart1.write("chartdiv");
+
+                // LEGEND
+                var legend2 = new AmCharts.AmLegend();
+                legend2.align = "center";
+                legend2.valueText = "[[value]] ([[percents]]%)";
+                legend2.valueWidth = 100;
+                legend2.valueAlign = "left";
+                legend2.equalWidths = false;
+                legend2.periodValueText = "total: [[value.sum]]"; // this is displayed when mouse is not over the chart.
+                chart2.addLegend(legend2);
+
+                // CURSOR
+                var chartCursor2 = new AmCharts.ChartCursor();
+                chartCursor2.zoomable = false; // as the chart displayes not too many values, we disabled zooming
+                chartCursor2.cursorAlpha = 0;
+                chart2.addChartCursor(chartCursor2);
+
+                // WRITE
+                chart2.write("chartdiv2");
             });
         </script>
     </head><body>
-    <table width="80%">
-    <tr>
-    <td width="50%">
-    <a style="color:red">'.'POS COUNT : '.'</a><a style="color:green">'.$pos_cnt.'</a><br>
-    <a style="color:red">'.'POS TOTAL : '.'</a><a style="color:green">'.$pos_tot.'</a><br>
-    <a style="color:red">'.'NEG COUNT : '.'</a><a style="color:green">'.$neg_cnt.'</a><br>
-    <a style="color:red">'.'NEG TOTAL : '.'</a><a style="color:green">'.$neg_tot.'</a><br>
-    <a style="color:red">'.'NEU COUNT : '.'</a><a style="color:green">'.$neu_cnt.'</a><br>
-    <a style="color:red">'.'NEU TOTAL : '.'</a><a style="color:green">'.$neu_tot.'</a><br>
+    <table width="100%" height="300px"><tr>
+    <td width="30%">
+    <div id="chartdiv" style="height: 300px"></div>
     </td>
-    <td width="50%">
-    <div id="chartdiv" style="width: 400px; height: 250px;"></div>
-    </td></tr></table>
+    <td width="70%">
+    <div id="chartdiv2" style="height: 300px"></div>
+    </td>
+    <td>
+    </td>
+    </tr></table>
     <div data-role="collapsible">
     <h1>Expand Me for Tweets..</h1>
     <p>
@@ -174,7 +261,7 @@ try {
     foreach ($results->statuses as $result) {
         echo "<tr><td>".$result->user->screen_name."</td><td>".": " . $result->text . "</td></tr>";
     }
-    echo "</p></table></body></html>";
+    echo "</table></p></div></body></html>";
 
 }
 catch(Exception $e) {
