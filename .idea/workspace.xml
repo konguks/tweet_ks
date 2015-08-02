@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="45f3fa98-1b0d-4b4b-a9eb-34dbb0faa039" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.travis.yml" afterPath="$PROJECT_DIR$/.travis.yml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Test/test_f.php" afterPath="$PROJECT_DIR$/Test/test_f.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ut.xml" afterPath="$PROJECT_DIR$/ut.xml" />
     </list>
     <ignored path="tweet.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -56,20 +54,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ut.xml" pinned="false" current-in-tab="false">
+      <file leaf-file-name="ut.xml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/ut.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="10" column="12" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
+            <state vertical-scroll-proportion="0.14190318">
+              <caret line="5" column="31" selection-start-line="5" selection-start-column="31" selection-end-line="5" selection-end-column="31" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="test_f.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="test_f.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Test/test_f.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.2802198">
+            <state vertical-scroll-proportion="-2.8867924">
               <caret line="9" column="52" selection-start-line="9" selection-start-column="52" selection-end-line="9" selection-end-column="52" />
               <folding />
             </state>
@@ -121,6 +119,7 @@
         <option value="$PROJECT_DIR$/Inpt.html" />
         <option value="$PROJECT_DIR$/.travis.yml" />
         <option value="$PROJECT_DIR$/Test/test_f.php" />
+        <option value="$PROJECT_DIR$/ut.xml" />
       </list>
     </option>
   </component>
@@ -849,18 +848,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ut.xml">
+    <entry file="file://$PROJECT_DIR$/Test/test_f.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="10" column="12" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
+        <state vertical-scroll-proportion="-2.8867924">
+          <caret line="9" column="52" selection-start-line="9" selection-start-column="52" selection-end-line="9" selection-end-column="52" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Test/test_f.php">
+    <entry file="file://$PROJECT_DIR$/ut.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.2802198">
-          <caret line="9" column="52" selection-start-line="9" selection-start-column="52" selection-end-line="9" selection-end-column="52" />
+        <state vertical-scroll-proportion="0.14190318">
+          <caret line="5" column="31" selection-start-line="5" selection-start-column="31" selection-end-line="5" selection-end-column="31" />
           <folding />
         </state>
       </provider>
