@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="45f3fa98-1b0d-4b4b-a9eb-34dbb0faa039" name="Default" comment="">
-      <change type="DELETED" beforePath="C:\Users\kongu\Documents\GitHub\tweet_ks\Test\test_f.php" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Test/NewWorldTest.php" afterPath="$PROJECT_DIR$/Test/NewWorldTest.php" />
     </list>
     <ignored path="tweet.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -67,8 +67,8 @@
       <file leaf-file-name="NewWorldTest.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Test/NewWorldTest.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.68733156">
+              <caret line="15" column="35" selection-start-line="15" selection-start-column="35" selection-end-line="15" selection-end-column="35" />
               <folding />
             </state>
           </provider>
@@ -131,6 +131,7 @@
         <option value="$PROJECT_DIR$/ut.xml" />
         <option value="$PROJECT_DIR$/Test/HelloWorldTest.php" />
         <option value="$PROJECT_DIR$/Test/test_f.php" />
+        <option value="$PROJECT_DIR$/Test/NewWorldTest.php" />
       </list>
     </option>
   </component>
@@ -318,9 +319,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.28744328" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.28744328" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2992126" sideWeight="0.50293255" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -415,6 +416,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="174" column="21" selection-start-line="174" selection-start-column="20" selection-end-line="174" selection-end-column="23" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -443,6 +445,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="174" column="21" selection-start-line="174" selection-start-column="20" selection-end-line="174" selection-end-column="23" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -464,6 +467,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="174" column="21" selection-start-line="174" selection-start-column="20" selection-end-line="174" selection-end-column="23" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -485,6 +489,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="42" column="0" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -506,6 +511,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="42" column="0" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -527,6 +533,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="51" column="0" selection-start-line="51" selection-start-column="0" selection-end-line="51" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -569,6 +576,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="129" column="24" selection-start-line="129" selection-start-column="19" selection-end-line="129" selection-end-column="24" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -583,6 +591,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="310" column="0" selection-start-line="310" selection-start-column="0" selection-end-line="310" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -864,8 +873,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Test/NewWorldTest.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.68733156">
+          <caret line="15" column="35" selection-start-line="15" selection-start-column="35" selection-end-line="15" selection-end-column="35" />
           <folding />
         </state>
       </provider>

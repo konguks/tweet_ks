@@ -8,9 +8,11 @@
 class NewWorldTest extends PHPUnit_Framework_TestCase
 {
     public function Addtest(){
-        $this->assertEquals(5,Add(3,2));
+        $nw = new NewWorld();
+        $this->assertEquals(5,$nw->Add(3,2));
     }
     public function Subtest(){
-        $this->assertEquals(1,Sub(3,2));
+        $nw = new NewWorld();
+        $this->assertEquals(1,$nw->Sub(3,2));
     }
 }
